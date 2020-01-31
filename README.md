@@ -21,8 +21,8 @@ optional arguments:
 ***
 
 # Client
-**Tries to connect to a host listening on the specified IP(default IPv4) and Port
-**Either use this client as a file transmitter or a basic echo out to server
+** Tries to connect to a host listening on the specified IP(default IPv4) and Port
+** Either use this client as a file transmitter or a basic echo out to server
 ### **Usage:**
 usage: client3.py [-h] [-ipv6] [-f [File [File ...]]] port IP-Address
 
